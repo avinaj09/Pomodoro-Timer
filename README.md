@@ -8,3 +8,5 @@
   <li>React</li>
   <li>Bootstrap</li>
 </ul>
+
+<img width="1319" alt="pomodoro" src="https://user-images.githubusercontent.com/87321366/137403625-da12d0ea-1499-4137-9bad-9a4881e15ece.png">
